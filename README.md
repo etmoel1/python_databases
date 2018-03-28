@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-=======
+
 # python_databases
 Code Louisville Python for Databases
->>>>>>> 35743687ffe907c0fc5a67c4fb772188aeff0205
+
 Hello,
 
 This is my modest attempt at a project which should fulfill all the requirements for the Code Louisville Python 
@@ -26,8 +25,4 @@ requests
 bokeh
 sqlite3
 pandas
-<<<<<<< HEAD
 csv
-=======
-csv
->>>>>>> 35743687ffe907c0fc5a67c4fb772188aeff0205
